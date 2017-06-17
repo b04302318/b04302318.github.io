@@ -1,0 +1,49 @@
+.jumbotron {
+    /* 背景圖片 */
+    background-attachment: fixed;
+    background-image: url('http://wiki.gcdn.co/images/4/45/GameLogo_World_of_Warships_ZH.png ');
+    background-repeat: no-repeat;
+    background-position: 10% 10%;
+    background-color: darkgray;
+    /* 文字顏色 */
+    color: black;
+    margin-top: 30px;
+    border-width: 5px;
+    border-color: #728893;
+    border-style: solid;
+    text-align: right;
+}
+
+body {
+    background-attachment: fixed;
+    background-image: url('http://www.portalmmo.pl/assets/gallery/2505.jpg');
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+.btn-primary {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-color: #728893;
+    border-width: 3px;
+    color: black;
+    background-color: darkgray;
+}
+
+.col-10 {
+    margin-bottom: 20px;
+}
+
+img {
+    width: 400px;
+    margin-left: 80px;
+    margin-bottom: 40px;
+}
+
+.btn-2 {
+    margin-bottom: 20px;
+    border-width: 3px;
+    border-color: blanchedalmond;
+    background-color: black;
+    color: wheat;
+}
